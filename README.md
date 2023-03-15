@@ -1,4 +1,4 @@
-# ChatGPT-Creations
+# ChatGPT-Does-Engineering
 Some of the stuff I got OpenAI's ChatGPT to generate, mostly out of curiosity, sometimes merely for fun. Programs are uploaded unfiltered and unadjusted. **Some may not work or give wrong results.**
 
 ## Q & A
